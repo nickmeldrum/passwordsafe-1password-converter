@@ -1,0 +1,11 @@
+{
+  "name": "pwsafe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nick Meldrum <nick@nickmeldrum.com>",
+  "license": "MIT",
+  "scripts": "node index.js",
+  "dependencies": {
+    "csv": "^5.1.0"
+  }
+}
